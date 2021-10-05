@@ -1,0 +1,253 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:2:1-48:12
+MERGED from [com.android.support:design:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/4a3cc5845e921d712495047e0ee530b3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/e32dc02ef432ea1f9c7e73848878e1eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/9ce76e182b7066d3d4c45972953e1ccf/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/6fa37fc11006e9ad5e0edd138f1c2cb0/AndroidManifest.xml:10:1-24:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/fd1136293a817ec87b73a1539e904b4f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/91732b4ac450e9889456d26f8290d2a4/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/2ba8a3d8fdd6f73dc5f0910174822780/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/32b37629fcb6f85498e244d66df7fb4f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/b04cd3c5213d8dbe6be6ce7250089254/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/aa6714a2ab141948801b9674e5933ec0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/faa9827f5a85e8f051b6ba9ee6b02fe8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/b3587ccbcf8962be3184e7549ae2138c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/e919d94e662e1f22a017fd649b76a234/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/96da12bdc5f3215d62d3c8aa471ba751/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/e385a03c2dfae20eb98c3852a0293eeb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/78e8f16c3f8120d51ae65e0f5fc60143/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/9de6239cb2db50b1ce0e015750afadae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/8b0926d0d00705f0d2277b000f36c696/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/e52db5536af5620f604849b84657bb3b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/a607752b461514b0e1d9dc24c397ee2e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/3ebc28145d2472b2ae3d1d6f4c36b9a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/96d2843017534d3cccd2e8803dbff7a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/3256679e757621a9f5175c4a77869d25/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/e42feadabd0e55ebda380712b736fc1e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/362890d8dc1fc5c26b5226393f38f23e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/1bed3ab5f93890f040f78b13598726c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/2b29717b5d70bdafd1d641ec93590c10/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/0bf9269dafba1dcc08e480e69e1052d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/fae6ef7ed841d228553abda22ac49b2c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/8e72278830c7e516c3b3a7828dda1c1e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/44bf6cef818a7f107cc0e8228b11f8f9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/e156417e6b1dda958eb50b32fdfb3fde/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/55ab4bb1278eb2878043a1fddcc757a2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/21592c8114b50a029bbd7e890246babc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/7db9d827e67a6190ef76617dae4accbc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/8abc06ae88993091ae473b8cef7615d6/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:2:1-48:12
+		INJECTED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:2:1-48:12
+		INJECTED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/6fa37fc11006e9ad5e0edd138f1c2cb0/AndroidManifest.xml:19:5-67
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/6fa37fc11006e9ad5e0edd138f1c2cb0/AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:9:5-46:19
+MERGED from [com.android.support:design:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/4a3cc5845e921d712495047e0ee530b3/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/4a3cc5845e921d712495047e0ee530b3/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/9ce76e182b7066d3d4c45972953e1ccf/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/9ce76e182b7066d3d4c45972953e1ccf/AndroidManifest.xml:9:5-20
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/6fa37fc11006e9ad5e0edd138f1c2cb0/AndroidManifest.xml:22:5-20
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/6fa37fc11006e9ad5e0edd138f1c2cb0/AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/91732b4ac450e9889456d26f8290d2a4/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/91732b4ac450e9889456d26f8290d2a4/AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/3256679e757621a9f5175c4a77869d25/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/3256679e757621a9f5175c4a77869d25/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/e42feadabd0e55ebda380712b736fc1e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/e42feadabd0e55ebda380712b736fc1e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/2b29717b5d70bdafd1d641ec93590c10/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/2b29717b5d70bdafd1d641ec93590c10/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/3256679e757621a9f5175c4a77869d25/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:16:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:17:9-44
+	android:name
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:10:9-33
+activity#com.example.parstagram.ProfileEditActivity
+ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:18:9-66
+	android:name
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:18:19-54
+activity#com.example.parstagram.fragments.GridFragment
+ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:19:9-22:59
+	android:label
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:21:13-65
+	android:theme
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:20:13-51
+activity#com.example.parstagram.post_details
+ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:23:9-50
+	android:name
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:23:19-47
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:25:9-33:20
+	android:grantUriPermissions
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:29:13-47
+	android:authorities
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:27:13-60
+	android:exported
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:26:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:30:13-32:56
+	android:resource
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:32:17-53
+	android:name
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:31:17-67
+activity#com.example.parstagram.SignupActivity
+ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:35:9-52
+	android:name
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:35:19-49
+activity#com.example.parstagram.HomeActivity
+ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:36:9-38:59
+	android:label
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:37:13-41
+activity#com.example.parstagram.MainActivity
+ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:39:9-45:20
+	android:name
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:39:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml:43:27-74
+uses-sdk
+INJECTED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/4a3cc5845e921d712495047e0ee530b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/4a3cc5845e921d712495047e0ee530b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/e32dc02ef432ea1f9c7e73848878e1eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/e32dc02ef432ea1f9c7e73848878e1eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/9ce76e182b7066d3d4c45972953e1ccf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/9ce76e182b7066d3d4c45972953e1ccf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/6fa37fc11006e9ad5e0edd138f1c2cb0/AndroidManifest.xml:15:5-17:41
+MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/6fa37fc11006e9ad5e0edd138f1c2cb0/AndroidManifest.xml:15:5-17:41
+MERGED from [com.android.support:support-v4:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/fd1136293a817ec87b73a1539e904b4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/fd1136293a817ec87b73a1539e904b4f/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/91732b4ac450e9889456d26f8290d2a4/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/91732b4ac450e9889456d26f8290d2a4/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/2ba8a3d8fdd6f73dc5f0910174822780/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/2ba8a3d8fdd6f73dc5f0910174822780/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/32b37629fcb6f85498e244d66df7fb4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/32b37629fcb6f85498e244d66df7fb4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/b04cd3c5213d8dbe6be6ce7250089254/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/b04cd3c5213d8dbe6be6ce7250089254/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/aa6714a2ab141948801b9674e5933ec0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/aa6714a2ab141948801b9674e5933ec0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/faa9827f5a85e8f051b6ba9ee6b02fe8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/faa9827f5a85e8f051b6ba9ee6b02fe8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/b3587ccbcf8962be3184e7549ae2138c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/b3587ccbcf8962be3184e7549ae2138c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/e919d94e662e1f22a017fd649b76a234/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/e919d94e662e1f22a017fd649b76a234/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/96da12bdc5f3215d62d3c8aa471ba751/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/96da12bdc5f3215d62d3c8aa471ba751/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/e385a03c2dfae20eb98c3852a0293eeb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/e385a03c2dfae20eb98c3852a0293eeb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/78e8f16c3f8120d51ae65e0f5fc60143/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/78e8f16c3f8120d51ae65e0f5fc60143/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/9de6239cb2db50b1ce0e015750afadae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/9de6239cb2db50b1ce0e015750afadae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/8b0926d0d00705f0d2277b000f36c696/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/8b0926d0d00705f0d2277b000f36c696/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/e52db5536af5620f604849b84657bb3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/e52db5536af5620f604849b84657bb3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/a607752b461514b0e1d9dc24c397ee2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/a607752b461514b0e1d9dc24c397ee2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/3ebc28145d2472b2ae3d1d6f4c36b9a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/3ebc28145d2472b2ae3d1d6f4c36b9a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/96d2843017534d3cccd2e8803dbff7a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/96d2843017534d3cccd2e8803dbff7a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/3256679e757621a9f5175c4a77869d25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/3256679e757621a9f5175c4a77869d25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/e42feadabd0e55ebda380712b736fc1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/e42feadabd0e55ebda380712b736fc1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/362890d8dc1fc5c26b5226393f38f23e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/362890d8dc1fc5c26b5226393f38f23e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/1bed3ab5f93890f040f78b13598726c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/1bed3ab5f93890f040f78b13598726c1/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/2b29717b5d70bdafd1d641ec93590c10/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/2b29717b5d70bdafd1d641ec93590c10/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/0bf9269dafba1dcc08e480e69e1052d0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/0bf9269dafba1dcc08e480e69e1052d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/fae6ef7ed841d228553abda22ac49b2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/fae6ef7ed841d228553abda22ac49b2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/8e72278830c7e516c3b3a7828dda1c1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/8e72278830c7e516c3b3a7828dda1c1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/44bf6cef818a7f107cc0e8228b11f8f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/44bf6cef818a7f107cc0e8228b11f8f9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/e156417e6b1dda958eb50b32fdfb3fde/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/e156417e6b1dda958eb50b32fdfb3fde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/55ab4bb1278eb2878043a1fddcc757a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/55ab4bb1278eb2878043a1fddcc757a2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/21592c8114b50a029bbd7e890246babc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/21592c8114b50a029bbd7e890246babc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/7db9d827e67a6190ef76617dae4accbc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/7db9d827e67a6190ef76617dae4accbc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/8abc06ae88993091ae473b8cef7615d6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/8abc06ae88993091ae473b8cef7615d6/AndroidManifest.xml:20:5-44
+INJECTED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tylerellison/Desktop/12345parsta/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/6fa37fc11006e9ad5e0edd138f1c2cb0/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] /Users/tylerellison/.gradle/caches/transforms-2/files-2.1/6fa37fc11006e9ad5e0edd138f1c2cb0/AndroidManifest.xml:20:22-76
